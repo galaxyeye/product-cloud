@@ -2,7 +2,8 @@
 
 技术目标：
 
-    使用大规模自动化信息抽取技术，合理结合众包，为每一件商品建立一个权威档案，建立开放商品本体库和商务知识库，推进商业自动化。
+    使用大规模自动化信息抽取技术，合理结合众包，为每一件商品建立一个权威档案，建立开放商品本体库和
+    商务知识库，推进商业自动化。
 
 商业目标：
 
@@ -17,7 +18,8 @@
 
 技术领域：
 
-    编程语言，深网爬虫，信息检索，数据挖掘，信息抽取，文本抽取，文本挖掘，自然语言处理，机器学习，本体论，语义网，知识图谱
+    编程语言，深网爬虫，信息检索，数据挖掘，信息抽取，文本抽取，文本挖掘，自然语言处理，机器学习，
+    本体论，语义网，知识图谱
 
 计算机语言：
 
@@ -29,7 +31,8 @@
 
 平台和系统：
 
-    ubuntu desktop, ubuntu server, aliyun ubuntu host, aliyun mysql, mysql, hadoop, hbase, spark, Ontoloty/Graph database, Semantic Media Wiki(SMW)
+    ubuntu desktop, ubuntu server, aliyun ubuntu host, aliyun mysql, mysql, hadoop, hbase, spark, 
+    Ontoloty/Graph database, Semantic Media Wiki(SMW)
 
 主要辅助工具：
 
@@ -37,7 +40,8 @@
 
 关键软件：
 
-    nutch, gora, phantomjs, casperjs, hadoop, hbase, spark, jsoup, gate, cakephp, SMW, 4store, fuseki, jena，fnlp，xsimilarity
+    nutch, gora, phantomjs, casperjs, hadoop, hbase, spark, jsoup, gate, cakephp, SMW, 4store,
+    fuseki, jena，fnlp，xsimilarity
 
 深度定制的软件：
 
